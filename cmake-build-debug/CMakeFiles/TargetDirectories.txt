@@ -1,0 +1,3 @@
+/Users/moukhtaryoussef/Library/Mobile Documents/com~apple~CloudDocs/Media Minds Group/Projects/Coding/Self_projects/Temperature_converter/cmake-build-debug/CMakeFiles/Temperature_converter.dir
+/Users/moukhtaryoussef/Library/Mobile Documents/com~apple~CloudDocs/Media Minds Group/Projects/Coding/Self_projects/Temperature_converter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/moukhtaryoussef/Library/Mobile Documents/com~apple~CloudDocs/Media Minds Group/Projects/Coding/Self_projects/Temperature_converter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
